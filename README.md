@@ -1,6 +1,6 @@
 ## Hola Amigo visitante 👋
 
-# 👋 ¡Hola! Soy Gelber Daza 
+# 👋 ¡Hola! Mi nombres es  Gelber Daza 
 
 🔍 Actualmente, estoy en transición hacia roles de Data Analyst. He completado un bootcamp intensivo de análisis de datos con Trepleten, donde adquirí habilidades en manipulación de datos, análisis exploratorio, visualización de datos y pruebas de hipótesis.
 
