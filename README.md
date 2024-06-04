@@ -16,4 +16,4 @@
 🚀 Estoy emocionado por aplicar mis habilidades técnicas y mi experiencia en gestión para generar información valiosa que apoye la toma de decisiones empresariales.
 
 
-![] (https://github.com/GelberDaza/GelberDaza/blob/main/Data%20Analyst%20Linkedin%20Background%20%20(1).png)
+![](https://github.com/GelberDaza/GelberDaza/blob/main/Data%20Analyst%20Linkedin%20Background%20%20(1).png)
