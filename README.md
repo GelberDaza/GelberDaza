@@ -1,8 +1,7 @@
-![Banner](https://yourbannerimageurl.com)
 
 ![](https://github.com/GelberDaza/GelberDaza/blob/main/Data%20Analyst%20Linkedin%20Background%20%20(1).png)
 
-# 👋 ¡Hola! Mi nombres es  Gelber Daza 
+## 👋 ¡Hola! Mi nombres es  Gelber Daza 
 
 🔍 Actualmente, estoy en transición hacia roles de Data Analyst. He completado un bootcamp intensivo de análisis de datos con Trepleten, donde adquirí habilidades en manipulación de datos, análisis exploratorio, visualización de datos y pruebas de hipótesis.
 
@@ -29,7 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-# 🛠️ Idiomas y herramientas:
+## 🛠️ Idiomas y herramientas:
 
 <div identificación="encabezamiento" alinear="izquierda">
   
@@ -48,4 +47,9 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)]()
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto.
