@@ -21,3 +21,19 @@
 <a href="https://www.linkedin.com/in/gelberdaza/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://wa.me/573144625522" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+Herramientas:
+
+<div identificación="encabezamiento" alinear="izquierda">
+  
+   [![Mis habilidades](https://skillicons.dev/icons?i=py,sap,tableau,powerbi,excel,jupyter,github)](https://skillicons.dev)
+
+</div>
+
+---
+
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks">
+  </a>
+</div>
