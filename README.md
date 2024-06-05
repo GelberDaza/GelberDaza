@@ -16,7 +16,7 @@
 
 🚀 Estoy emocionado por aplicar mis habilidades técnicas y mi experiencia en gestión para generar información valiosa que apoye la toma de decisiones empresariales.
 
-## 📞 Contact: 
+## 📞 Contacto: 
 
 <a href="https://www.linkedin.com/in/gelberdaza/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -37,7 +37,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,github,anaconda,discord,gmail,notion,visualstudio)](https://skillicons.dev)
 
 ---
-## 💻 Technologies
+## 💻 Tecnologias :
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
@@ -47,7 +47,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)]()
 
-## 📊 GitHub Stats
+## 📊 Estadisticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
