@@ -1,3 +1,5 @@
+![Banner](https://yourbannerimageurl.com)
+
 ![](https://github.com/GelberDaza/GelberDaza/blob/main/Data%20Analyst%20Linkedin%20Background%20%20(1).png)
 
 # 👋 ¡Hola! Mi nombres es  Gelber Daza 
@@ -15,7 +17,7 @@
 
 🚀 Estoy emocionado por aplicar mis habilidades técnicas y mi experiencia en gestión para generar información valiosa que apoye la toma de decisiones empresariales.
 
-# 👨‍💻 Contacto : 
+## 📞 Contact: 
 
 <a href="https://www.linkedin.com/in/gelberdaza/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -46,11 +48,4 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)]()
 
-## 📞 Contact
-<a href="https://wa.me/573144625522" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-<a href="mailto:gelber.daza.salgado@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 
