@@ -32,11 +32,9 @@ Herramientas:
 
 <div identificación="encabezamiento" alinear="izquierda">
   
-   [![Mis habilidades](https://skillicons.dev/icons?i=py,sap,tableau,powerbi,excel,jupyter,github)](https://skillicons.dev)
+   
 
-</div>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ---
 
