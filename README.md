@@ -1,4 +1,4 @@
-
+![](https://github.com/GelberDaza/GelberDaza/blob/main/Data%20Analyst%20Linkedin%20Background%20%20(1).png)
 
 # 👋 ¡Hola! Mi nombres es  Gelber Daza 
 
@@ -15,8 +15,6 @@
 
 🚀 Estoy emocionado por aplicar mis habilidades técnicas y mi experiencia en gestión para generar información valiosa que apoye la toma de decisiones empresariales.
 
-
-![](https://github.com/GelberDaza/GelberDaza/blob/main/Data%20Analyst%20Linkedin%20Background%20%20(1).png)
 
 <a href="https://www.linkedin.com/in/gelberdaza/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
